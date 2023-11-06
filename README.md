@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Samyak Shakya,
-I am Currently working as a Senior Excecutive at Genius Systems Pvt Ltd Nepal.
+I am Currently working as a Senior Executive at Genius Systems Pvt Ltd Nepal.
 <!--
 **samyakshk/samyakshk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
